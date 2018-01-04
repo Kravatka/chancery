@@ -25,6 +25,7 @@
 
 <body id="page-top">
 <!-- Navigation -->
+<!--
 <a class="menu-toggle rounded" href="#">
     <i class="fa fa-bars"></i>
 </a>
@@ -50,20 +51,35 @@
         </li>
     </ul>
 </nav>
-
+-->
 <!-- Header -->
 <header class="masthead d-flex">
     <div class="container text-center my-auto">
-        <h1 class="mb-1">Stylish Portfolio</h1>
+        <h1 class="mb-1">Каталог товаров</h1>
         <h3 class="mb-5">
-            <em>A Free Bootstrap Theme by Start Bootstrap</em>
+            <em>Менеджер: Тамара Кравченко</em>
         </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Показать каталоги</a>
     </div>
     <div class="overlay"></div>
 </header>
 
+<section class="content-section bg-light" id="about">
+    <div class="container text-center">
+        <div class="row">
+                <div class="col-lg-5 mx-auto">
+                    <iframe src="//v.calameo.com/?bkcode=0022528198decdfa9b7ee&amp;mode=mini&amp;showsharemenu=false&amp;clickto=view&amp;clicktarget=_self" width="480" height="300" frameborder="0" scrolling="no" allowtransparency="" allowfullscreen="" style="margin:0 auto;"></iframe>
+                </div>
+                <div class="col-lg-5 mx-auto">
+                    <iframe src="//v.calameo.com/?bkcode=002252819b9c1b779acde&amp;mode=mini&amp;showsharemenu=false&amp;clickto=view&amp;clicktarget=_self" width="480" height="300" frameborder="0" scrolling="no" allowtransparency="" allowfullscreen="" style="margin:0 auto;"></iframe>
+                </div>
+        </div>
+    </div>
+</section>
+
+
 <!-- About -->
+<!--
 <section class="content-section bg-light" id="about">
     <div class="container text-center">
         <div class="row">
@@ -76,8 +92,9 @@
         </div>
     </div>
 </section>
-
+-->
 <!-- Services -->
+<!--
 <section class="content-section bg-primary text-white text-center" id="services">
     <div class="container">
         <div class="content-section-heading">
@@ -126,8 +143,9 @@
         </div>
     </div>
 </section>
-
+-->
 <!-- Callout -->
+<!--
 <section class="callout">
     <div class="container text-center">
         <h2 class="mx-auto mb-5">Welcome to
@@ -136,8 +154,9 @@
         <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/template-overviews/stylish-portfolio/">Download Now!</a>
     </div>
 </section>
-
+-->
 <!-- Portfolio -->
+<!--
 <section class="content-section" id="portfolio">
     <div class="container">
         <div class="content-section-heading text-center">
@@ -192,8 +211,9 @@
         </div>
     </div>
 </section>
-
+-->
 <!-- Call to Action -->
+<!--
 <section class="content-section bg-primary text-white">
     <div class="container text-center">
         <h2 class="mb-4">The buttons below are impossible to resist...</h2>
@@ -201,8 +221,9 @@
         <a href="#" class="btn btn-xl btn-dark">Look at Me!</a>
     </div>
 </section>
-
+-->
 <!-- Map -->
+<!--
 <section id="contact" class="map">
     <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
     <br/>
@@ -210,8 +231,9 @@
         <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
     </small>
 </section>
-
+-->
 <!-- Footer -->
+<!--
 <footer class="footer text-center">
     <div class="container">
         <ul class="list-inline mb-5">
@@ -234,7 +256,7 @@
         <p class="text-muted small mb-0">Copyright &copy; Your Website 2017</p>
     </div>
 </footer>
-
+-->
 <!-- Scroll to Top Button-->
 <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
     <i class="fa fa-angle-up"></i>
